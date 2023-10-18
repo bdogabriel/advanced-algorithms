@@ -1,0 +1,5 @@
+all: shortest.cpp
+	g++ -g -o exe shortest.cpp -Wall -Werror
+
+run: exe
+	valgrind ./exe < test_cases/7.in > out.out
