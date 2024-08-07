@@ -1,6 +1,6 @@
 # Advanced Algorithms
 
-This repository contains many exercises I did for the ***Advanced Algorithms*** class in college. Most of them are problems taken or adapted from competitive programming contests and sites.
+This repository contains many exercises I solved for the ***Advanced Algorithms*** class in university. Most of them are problems taken or adapted from competitive programming contests and sites.
 
 ## What are the problems like
 
